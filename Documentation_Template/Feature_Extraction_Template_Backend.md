@@ -1,6 +1,6 @@
-# Feature Extraction Template
+# Backend Feature Extraction Template
 
-# ✅ **Feature Extraction Template for FastAPI Repositories**
+# ✅ **Feature Extraction Template for Backend Repositories**
 
 ## 📁 Repo Name: `______`
 
