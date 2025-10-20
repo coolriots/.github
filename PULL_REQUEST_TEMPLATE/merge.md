@@ -17,5 +17,5 @@ Merging completed tasks from **[source branch]** to **[target branch]**.
 - [ ] All tests pass
 - [ ] Code reviewed
 
-#### ⚠️ Notes
+#### ⚠️ Notes/ENV variable changes
 - Known issues, follow-ups if any
