@@ -1,14 +1,14 @@
-### 🎯 Objective
+### Objective
 _What needs to be done?_
 
-### 📝 Description
+### Description
 _Short explanation of the work required._
 
-### ✅ Deliverables
+### Deliverables
 - [ ] Deliverable 1  
 - [ ] Deliverable 2  
 
-### 🔗 Related Issues / Dependencies
+### Related Issues / Dependencies
 _Link related features, bugs, or PRs._
 
 **Estimate:** _e.g. 2 SP_  
