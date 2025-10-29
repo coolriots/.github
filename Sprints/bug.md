@@ -15,5 +15,7 @@ _What actually happens?_
 ### Logs / Screenshots
 _Paste relevant console output or screenshots._
 
+### Reported By
+
 **Severity:** P0/P1/P2 
 **Environment:** Dev/Stage/Prod/Feature
