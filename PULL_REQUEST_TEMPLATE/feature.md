@@ -1,5 +1,8 @@
 ### 🚀 Feature PR: [Title of the Feature]
 
+### ENV Vars Needed
+Mention the env variables to be added
+
 #### 📌 Summary
 Briefly describe the new feature added in this PR.
 
